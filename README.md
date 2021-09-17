@@ -4,6 +4,7 @@
   <i>Dashy helps you organize your self-hosted services, by making them all accessible from a single place</i>
    <br/>
   <img width="120" src="https://i.ibb.co/yhbt6CY/dashy.png" />
+  <br/> <p>For on Github:Galang23/dashy</p>
   <br/>
   <b><a href="https://github.com/Lissy93/dashy/blob/master/docs/showcase.md">User Showcase</a></b> | <b><a href="https://demo.dashy.to">Live Demo</a></b> | <b><a href="https://github.com/Lissy93/dashy/blob/master/docs/quick-start.md">Getting Started</a></b> | <b><a href="https://dashy.to/docs">Documentation</a></b> | <b><a href="https://github.com/Lissy93/dashy">GitHub</a></b>
   <br/><br/>
